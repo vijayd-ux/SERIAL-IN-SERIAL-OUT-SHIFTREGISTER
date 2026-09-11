@@ -55,6 +55,8 @@ endmodule
 <img width="1917" height="1073" alt="image" src="https://github.com/user-attachments/assets/bfe26db5-3bcb-43a9-89bb-fb2b51178462" />
 
 
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 <img width="1145" height="582" alt="image" src="https://github.com/user-attachments/assets/0890bcc6-80be-43a8-aae9-38b330e4391d" />
 
